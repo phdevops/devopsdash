@@ -1,5 +1,5 @@
 <mvc:View
 	xmlns="sap.m"
 	xmlns:mvc="sap.ui.core.mvc">
-	<Text text="This is the content of Page 1 - Hello World"/>
+	<Text text="This is the content of Page 1 - Hello World v1.1"/>
 </mvc:View>
